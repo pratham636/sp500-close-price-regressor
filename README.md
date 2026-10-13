@@ -98,7 +98,3 @@ For GPU support, install PyTorch first using the command from [pytorch.org](http
 - Add lagged features (previous closes, returns, moving averages).
 - Try sequence models (LSTM / Transformer) for true next-day forecasting.
 - Report errors in original price units using `y_scaler.inverse_transform`.
-
-## License
-
-MIT
