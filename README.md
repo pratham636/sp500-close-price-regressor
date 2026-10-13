@@ -70,7 +70,7 @@ A PyTorch neural network that predicts the **closing price** of S&P 500 stocks f
 
 | MSE | RMSE | MAE | R² |
 |---|---|---|---|
-|0.0257 | 0.1604 | 0.0950 |** 0.9734**|
+|0.0257 | 0.1604 | 0.0950 |**0.9734**|
 ## Getting started
 
 ```bash
